@@ -1,6 +1,6 @@
 # Melanoma-Detection
 
-> To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+> To develop a CNN-based model capable of accurately detecting melanoma, a potentially fatal form of cancer if not identified early. Melanoma is responsible for 75% of skin cancer-related deaths. An AI-driven solution that analyzes images and alerts dermatologists to its presence can significantly reduce the manual effort required for diagnosis, enabling faster and more efficient detection.
  
 ## Table of Contents
 * [Problem Statement](#problem-statement)
